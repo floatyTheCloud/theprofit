@@ -1,0 +1,3 @@
+movieID,budget,open_weekend,gross,ROI_open,ROI_gross
+
+# general header order for financial info
