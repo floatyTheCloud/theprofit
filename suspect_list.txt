@@ -1,0 +1,17 @@
+tt0962711,no MPAA Rating (Morocco)
+tt0430576,no MPAA Rating (Spain)
+tt0989000,no MPAA Rating (USA)
+tt0464184,no MPAA Rating (New Zealand)
+tt1232790,no MPAA Ratting, documentary, UK
+tt0390538,Tarnation, low budget $218 - Wikipedia says to add ~$400,000
+tt0185937,Blair Witch, IDMB says $60k budget, Wikipedia says $600k (but Wikipedia differs from its reference which also says $60k)
+
+NO RATING AT ALL:
+(some duplicates from above)
+tt0409184,0,,125,15 June 2005,1118793600,France,7.0,16019
+tt0962711,0,,90,24 April 2008,1208995200,Morocco,5.6,6571
+tt0430576,0,,115,21 October 2005,1129852800,Spain,7.5,9849
+tt0989000,0,,90,1 August 2008,1217548800,USA,7.3,7002
+tt0464184,0,,97,30 March 2006,1143676800,New Zealand,6.4,1343
+tt1232790,0,,74,31 October 2008,1225411200,UK,7.2,1476
+tt0116344,TV Movie,,53,3 October 1997,875836800,USA,7.6,4848
