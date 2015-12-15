@@ -2151,7 +2151,7 @@ tt0083972,4000000,9406522,33312481, 1.352, 7.328,Horror;Thriller,http://www.imdb
 tt0090180,6000000,3551761,17307019,-0.408, 1.885,Action;Crime;Drama;Thriller,http://www.imdb.com/title/tt0090180/
 tt0091209,6000000,2134214,5844868,-0.644,-0.026,Thriller,http://www.imdb.com/title/tt0091209/
 tt0091738,18000000,6942408,41382841,-0.614, 1.299,Comedy;Drama;Fantasy;Music;Romance,http://www.imdb.com/title/tt0091738/
-tt0092076,4700000,2822439,7525782,-0.399, 0.601,missName,http://www.imdb.com/title/tt0092076/
+tt0092076,4700000,2822439,7525782,-0.399, 0.601,Comedy;Horror,http://www.imdb.com/title/tt0092076/
 tt0093777,3000000,4657401,14182492, 0.552, 3.727,Horror,http://www.imdb.com/title/tt0093777/
 tt0097138,500000,3179811,10166459, 5.360,19.333,Action;Sci-Fi;Thriller,http://www.imdb.com/title/tt0097138/
 tt0101669,15000000,3479395,38016380,-0.768, 1.534,Crime;Drama;Mystery;Thriller,http://www.imdb.com/title/tt0101669/
@@ -2694,7 +2694,7 @@ tt0109578,5000000,503936,1700929,-0.899,-0.660,Action;Crime;Drama;Thriller,http:
 tt0109838,11000000,6957,29296,-0.999,-0.997,Comedy;Sci-Fi,http://www.imdb.com/title/tt0109838/
 tt0092226,13000000,1324456,7041543,-0.898,-0.458,Comedy;Crime,http://www.imdb.com/title/tt0092226/
 tt0084445,27000000,389249,636796,-0.986,-0.976,Romance,http://www.imdb.com/title/tt0084445/
-tt0083336,17000000,3037911,8873042,-0.821,-0.478,missName,http://www.imdb.com/title/tt0083336/
+tt0083336,17000000,3037911,8873042,-0.821,-0.478,Horror;Thriller,http://www.imdb.com/title/tt0083336/
 tt0079550,16000000,2250000,8400000,-0.859,-0.475,Action;Drama;Sci-Fi;Thriller,http://www.imdb.com/title/tt0079550/
 tt0092857,5000000,2466557,6767690,-0.507, 0.354,Action;Crime;Drama;Thriller,http://www.imdb.com/title/tt0092857/
 tt0097142,19000000,540148,19738015,-0.972, 0.039,Drama;Comedy,http://www.imdb.com/title/tt0097142/
@@ -3403,7 +3403,7 @@ tt0115632,3300000,83863,2961991,-0.975,-0.102,Biography;Drama,http://www.imdb.co
 tt0280778,5500000,23144,1292119,-0.996,-0.765,Biography;Drama;Romance,http://www.imdb.com/title/tt0280778/
 tt0218043,500000,966016,2047570, 0.932, 3.095,Documentary;Biography;Sport,http://www.imdb.com/title/tt0218043/
 tt0118163,1300000,3318,136933,-0.997,-0.895,Biography;Drama;Romance,http://www.imdb.com/title/tt0118163/
-tt0390538,218,12740,590873,57.440,2709.427,Documentary;Biography,http://www.imdb.com/title/tt0390538/
+tt0390538,400218,12740,590873,-0.968,0.476,Documentary;Biography,http://www.imdb.com/title/tt0390538/
 tt0141399,36000000,1368705,2954405,-0.962,-0.918,Biography;Comedy;Romance,http://www.imdb.com/title/tt0141399/
 tt0327036,3000000,7374049,19184015, 1.458, 5.395,Documentary;Biography;Comedy,http://www.imdb.com/title/tt0327036/
 tt0086945,221000,1160644,2687148, 4.252,11.159,Biography;Drama;Family;Sport,http://www.imdb.com/title/tt0086945/
