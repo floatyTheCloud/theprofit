@@ -1,3 +1,9 @@
 tt0190524,not a normal movie
 tt0077687,not a normal movie
 tt0116344,not a normal movie
+tt0409184, no MPAA Rating at all
+tt0962711, no MPAA Rating at all
+tt0430576, no MPAA Rating at all
+tt0989000, no MPAA Rating at all
+tt0464184, no MPAA Rating at all
+tt1232790, no MPAA Rating at all
